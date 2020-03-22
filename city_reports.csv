@@ -1,0 +1,406 @@
+id,name,state,cases,deaths,cases per population
+02000,Hamburg,Hamburg,872,0,0.0473609572996433
+05370,Heinsberg,Nordrhein-Westfalen,808,5,0.317707473203262
+09162,München,Bayern,584,0,0.0396871780513596
+08116,Esslingen,Baden-Württemberg,322,2,0.060315551484568
+08111,Stuttgart,Baden-Württemberg,308,0,0.0485169257911567
+03241,Region Hannover,Niedersachsen,233,0,0.0201274334326172
+08226,Rhein-Neckar-Kreis,Baden-Württemberg,232,0,0.0423647569048163
+05315,Köln,Nordrhein-Westfalen,227,0,0.0209088631473458
+09184,München,Bayern,220,0,0.0630605582005956
+08126,Hohenlohekreis,Baden-Württemberg,219,2,0.195518257298455
+09178,Freising,Bayern,212,2,0.118359052234306
+09187,Rosenheim,Bayern,193,0,0.0739511768965795
+05334,Städteregion Aachen,Nordrhein-Westfalen,178,0,0.0320452233714095
+08118,Ludwigsburg,Baden-Württemberg,176,0,0.0323538927615518
+05111,Düsseldorf,Nordrhein-Westfalen,155,0,0.0250285001953838
+04011,Bremen,Bremen,150,0,0.0263457404206888
+08311,Freiburg im Breisgau,Baden-Württemberg,149,0,0.0647147988412142
+06412,Frankfurt am Main,Hessen,148,0,0.019653252878936
+08125,Heilbronn,Baden-Württemberg,139,3,0.040516748866114
+11004,Berlin Charlottenburg-Wilmersdorf,Berlin,138,0,0.0403117441547971
+11001,Berlin Mitte,Berlin,134,0,0.0348802099059796
+08315,Breisgau-Hochschwarzwald,Baden-Württemberg,133,0,0.0506097909016534
+05554,Borken,Nordrhein-Westfalen,131,0,0.0353408367415209
+14713,Leipzig,Sachsen,129,0,0.0219441122585935
+05515,Münster,Nordrhein-Westfalen,124,0,0.0394503673020085
+07137,Mayen-Koblenz,Rheinland-Pfalz,120,1,0.0560069822037814
+08119,Rems-Murr-Kreis,Baden-Württemberg,118,1,0.0276892607905988
+11002,Berlin Friedrichshain-Kreuzberg,Berlin,117,0,0.0403779653646786
+14524,Zwickau,Sachsen,115,0,0.036216936299133
+11007,Berlin Tempelhof-Schöneberg,Berlin,115,0,0.0327035297061801
+08416,Tübingen,Baden-Württemberg,114,0,0.0501471422727213
+05770,Minden-Lübbecke,Nordrhein-Westfalen,111,0,0.0357246306845612
+09377,Tirschenreuth,Bayern,111,1,0.153095001655081
+08117,Göppingen,Baden-Württemberg,110,1,0.0427594624746845
+08316,Emmendingen,Baden-Württemberg,109,4,0.0659076204930374
+08235,Calw,Baden-Württemberg,108,1,0.0681831095285896
+09182,Miesbach,Bayern,108,0,0.108296733048553
+08436,Ravensburg,Baden-Württemberg,107,0,0.0376382855233305
+05766,Lippe,Nordrhein-Westfalen,103,0,0.0295644835831006
+05754,Gütersloh,Nordrhein-Westfalen,101,0,0.027740927206159
+11003,Berlin Pankow,Berlin,101,0,0.0247691685161797
+05566,Steinfurt,Nordrhein-Westfalen,100,0,0.0223406774587033
+08127,Schwäbisch Hall,Baden-Württemberg,97,0,0.0495249181817718
+11006,Berlin Steglitz-Zehlendorf,Berlin,97,0,0.0314223980148819
+08415,Reutlingen,Baden-Württemberg,95,1,0.0331301351709515
+08215,Karlsruhe,Baden-Württemberg,92,0,0.0207098993318806
+08136,Ostalbkreis,Baden-Württemberg,90,0,0.0286622378201413
+11008,Berlin Neukölln,Berlin,89,0,0.0269949740817917
+14612,Dresden,Sachsen,84,0,0.0151447131429066
+05570,Warendorf,Nordrhein-Westfalen,83,0,0.0298794382665606
+09188,Starnberg,Bayern,83,1,0.0609881550715692
+08437,Sigmaringen,Baden-Württemberg,82,2,0.0626561628448954
+08216,Rastatt,Baden-Württemberg,81,0,0.035062202945225
+08222,Mannheim,Baden-Württemberg,81,0,0.0261822413291528
+10041,Regionalverband Saarbrücken,Saarland,80,0,0.0242638941123661
+09190,Weilheim-Schongau,Bayern,78,1,0.0576292224487987
+01056,Pinneberg,Schleswig-Holstein,77,0,0.0244917952485917
+06631,Fulda,Hessen,76,0,0.0341444128958056
+03404,Osnabrück,Niedersachsen,75,0,0.0455240731298711
+08317,Ortenaukreis,Baden-Württemberg,74,2,0.0172301788911681
+05314,Bonn,Nordrhein-Westfalen,73,0,0.0223065593507263
+07332,Bad Dürkheim,Rheinland-Pfalz,73,0,0.0550278908487864
+05158,Mettmann,Nordrhein-Westfalen,72,0,0.014824453760058
+05562,Recklinghausen,Nordrhein-Westfalen,72,0,0.0117023507096988
+08435,Bodenseekreis,Baden-Württemberg,71,0,0.0328358623113672
+05558,Coesfeld,Nordrhein-Westfalen,70,0,0.0318284537282487
+08417,Zollernalbkreis,Baden-Württemberg,70,0,0.0370497790245322
+05154,Kleve,Nordrhein-Westfalen,69,0,0.0221883501514596
+07331,Alzey-Worms,Rheinland-Pfalz,69,0,0.0533873912908916
+09274,Landshut,Bayern,68,0,0.0428486811427995
+03353,Harburg,Niedersachsen,67,1,0.0265056809190746
+08115,Böblingen,Baden-Württemberg,67,0,0.0171075477479318
+09564,Nürnberg,Bayern,67,0,0.0129252553702507
+05170,Wesel,Nordrhein-Westfalen,66,0,0.0143537860285466
+11012,Berlin Reinickendorf,Berlin,65,1,0.0245074936374776
+03459,Osnabrück,Niedersachsen,64,0,0.017909963256591
+05913,Dortmund,Nordrhein-Westfalen,64,0,0.01090271034565
+06438,Offenbach,Hessen,64,1,0.0180743987438293
+07315,Mainz,Rheinland-Pfalz,63,0,0.0290164795180501
+06432,Darmstadt-Dieburg,Hessen,62,0,0.0208474137438256
+03251,Diepholz,Niedersachsen,61,0,0.0281253746207685
+09780,Oberallgäu,Bayern,61,2,0.0392631402788327
+05958,Hochsauerlandkreis,Nordrhein-Westfalen,60,0,0.0230348401957961
+07143,Westerwaldkreis,Rheinland-Pfalz,60,1,0.0297623476539829
+11009,Berlin Treptow-Köpenick,Berlin,59,0,0.0217589331484439
+05113,Essen,Nordrhein-Westfalen,58,1,0.00994668235269907
+06634,Schwalm-Eder-Kreis,Hessen,58,0,0.0321825304346861
+07138,Neuwied,Rheinland-Pfalz,58,0,0.0318784660961521
+03454,Emsland,Niedersachsen,57,0,0.0175030783922962
+08336,Lörrach,Baden-Württemberg,57,0,0.0249301300303098
+06433,Groß-Gerau,Hessen,56,0,0.0203987964710082
+06531,Gießen,Hessen,56,0,0.0208274446213124
+06533,Limburg-Weilburg,Hessen,56,0,0.0325424359175514
+05112,Duisburg,Nordrhein-Westfalen,55,0,0.0110311077237811
+09277,Rottal-Inn,Bayern,55,0,0.045583006655119
+06436,Main-Taunus-Kreis,Hessen,53,0,0.0222937304141166
+06414,Wiesbaden,Hessen,52,1,0.0186820530139181
+08335,Konstanz,Baden-Württemberg,52,0,0.0182248313326908
+09271,Deggendorf,Bayern,52,0,0.0435780969780266
+03159,Göttingen,Niedersachsen,51,0,0.0155452733224821
+06434,Hochtaunuskreis,Hessen,51,0,0.0215586479768688
+09175,Ebersberg,Bayern,51,0,0.0358796133444021
+05374,Oberbergischer Kreis,Nordrhein-Westfalen,50,0,0.0183505767586275
+06435,Main-Kinzig-Kreis,Hessen,50,0,0.0119345984007638
+09775,Neu-Ulm,Bayern,50,1,0.0287026406429392
+14625,Bautzen,Sachsen,50,0,0.0166179207657538
+03355,Lüneburg,Niedersachsen,49,0,0.0267216368911284
+07111,Koblenz,Rheinland-Pfalz,49,0,0.0429734091068547
+05362,Rhein-Erft-Kreis,Nordrhein-Westfalen,48,0,0.0102108324168402
+05378,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,48,0,0.0169339048526221
+09671,Aschaffenburg,Bayern,48,0,0.0275532696546657
+06532,Lahn-Dill-Kreis,Hessen,47,0,0.0185201968657522
+07339,Mainz-Bingen,Rheinland-Pfalz,47,0,0.0222866057499443
+08135,Heidenheim,Baden-Württemberg,47,0,0.0354791956035993
+09173,Bad Tölz-Wolfratshausen,Bayern,47,0,0.0369418441054179
+09772,Augsburg,Bayern,47,0,0.0186853467125717
+09179,Fürstenfeldbruck,Bayern,46,0,0.0209739193871968
+09479,Wunsiedel i. Fichtelgebirge,Bayern,46,1,0.0628604225313619
+07140,Rhein-Hunsrück-Kreis,Rheinland-Pfalz,45,0,0.0437160593372645
+08326,Schwarzwald-Baar-Kreis,Baden-Württemberg,45,0,0.0211883360564269
+08426,Biberach,Baden-Württemberg,45,0,0.0225290624906129
+09174,Dachau,Bayern,45,0,0.0292428062696577
+09177,Erding,Bayern,45,0,0.0326892343454889
+03359,Stade,Niedersachsen,44,0,0.0216639914919597
+09189,Traunstein,Bayern,44,1,0.0248462637430896
+06611,Kassel,Hessen,43,0,0.021330952203785
+15002,Halle (Saale),Sachsen-Anhalt,43,0,0.017972305930443
+08212,Karlsruhe,Baden-Württemberg,42,0,0.0134145874056188
+09273,Kelheim,Bayern,42,0,0.0343535801338154
+03460,Vechta,Niedersachsen,41,0,0.0289552112317971
+05114,Krefeld,Nordrhein-Westfalen,41,0,0.018060082812087
+05358,Düren,Nordrhein-Westfalen,41,0,0.0155466741492936
+07135,Cochem-Zell,Rheinland-Pfalz,41,0,0.0665724909477649
+09372,Cham,Bayern,41,0,0.0320608060555825
+14511,Chemnitz,Sachsen,41,0,0.0165832783927972
+14628,Sächsische Schweiz-Osterzgebirge,Sachsen,41,0,0.0166930634214266
+06440,Wetteraukreis,Hessen,40,0,0.013052274358807
+11011,Berlin Lichtenberg,Berlin,40,0,0.0137243868630169
+01002,Kiel,Schleswig-Holstein,39,0,0.0157545203354501
+05166,Viersen,Nordrhein-Westfalen,39,0,0.0130463144161774
+06633,Kassel,Hessen,39,0,0.0164812177506941
+07232,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,39,0,0.039569403719524
+08425,Alb-Donau-Kreis,Baden-Württemberg,39,0,0.0198931888781772
+09574,Nürnberger Land,Bayern,39,0,0.0228920259442961
+15003,Magdeburg,Sachsen-Anhalt,39,0,0.0163387055555788
+05162,Rhein-Kreis Neuss,Nordrhein-Westfalen,38,0,0.00842558984672078
+06431,Bergstraße,Hessen,38,0,0.0140900427892352
+09761,Augsburg,Bayern,38,0,0.0128754637708167
+05124,Wuppertal,Nordrhein-Westfalen,37,0,0.0104407108713196
+07131,Ahrweiler,Rheinland-Pfalz,37,0,0.0285214334718293
+07133,Bad Kreuznach,Rheinland-Pfalz,37,0,0.0234058704453441
+12060,Barnim,Brandenburg,37,0,0.0202451302254323
+11010,Berlin Marzahn-Hellersdorf,Berlin,37,0,0.0137777976376663
+05774,Paderborn,Nordrhein-Westfalen,36,0,0.0117305875069243
+08128,Main-Tauber-Kreis,Baden-Württemberg,36,0,0.0272065658512254
+09571,Ansbach,Bayern,36,0,0.0195706418626902
+09776,Lindau (Bodensee),Bayern,36,0,0.0440803732138265
+16076,Greiz,Thüringen,36,0,0.0366751902525494
+03254,Hildesheim,Niedersachsen,35,0,0.0126539259709177
+05116,Mönchengladbach,Nordrhein-Westfalen,35,0,0.0133866760500891
+05758,Herford,Nordrhein-Westfalen,35,0,0.0139562889031553
+06534,Marburg-Biedenkopf,Hessen,35,0,0.0141902630469333
+08421,Ulm,Baden-Württemberg,35,0,0.0277054358065052
+09279,Dingolfing-Landau,Bayern,35,0,0.0363761081721525
+05911,Bochum,Nordrhein-Westfalen,34,0,0.00932457189244929
+01058,Rendsburg-Eckernförde,Schleswig-Holstein,33,0,0.0120978828704977
+07141,Rhein-Lahn-Kreis,Rheinland-Pfalz,33,0,0.0269810641985806
+09183,Mühldorf a. Inn,Bayern,33,0,0.0286334056399132
+13004,Schwerin,Mecklenburg-Vorpommern,33,0,0.0344402930555845
+14521,Erzgebirgskreis,Sachsen,33,0,0.0097721027196058
+12065,Oberhavel,Brandenburg,32,0,0.015148000700595
+12067,Oder-Spree,Brandenburg,32,0,0.0179113165937154
+11005,Berlin Spandau,Berlin,32,0,0.013115990441722
+05962,Märkischer Kreis,Nordrhein-Westfalen,31,0,0.0075220809472969
+06439,Rheingau-Taunus-Kreis,Hessen,31,0,0.0165636337406562
+14729,Leipzig,Sachsen,31,0,0.0120265515221347
+05382,Rhein-Sieg-Kreis,Nordrhein-Westfalen,30,0,0.00500183400580213
+07337,Südliche Weinstraße,Rheinland-Pfalz,30,0,0.0271847475443111
+08225,Neckar-Odenwald-Kreis,Baden-Württemberg,30,0,0.0209008255826105
+09263,Straubing,Bayern,30,0,0.0627693852784868
+09475,Hof,Bayern,30,0,0.0314759051945736
+01060,Segeberg,Schleswig-Holstein,29,0,0.0105060282865755
+03456,Grafschaft Bentheim,Niedersachsen,29,0,0.0212437092981518
+05316,Leverkusen,Nordrhein-Westfalen,29,0,0.0177004113819749
+06635,Waldeck-Frankenberg,Hessen,29,0,0.018476868871573
+09278,Straubing-Bogen,Bayern,29,0,0.0288130036065932
+10046,St. Wendel,Saarland,29,0,0.0331819169994393
+15083,Börde,Sachsen-Anhalt,29,0,0.0168865804092375
+03351,Celle,Niedersachsen,28,0,0.0156480529351276
+03403,Oldenburg (Oldb),Niedersachsen,28,0,0.0166458593424886
+07233,Vulkaneifel,Rheinland-Pfalz,28,0,0.0462023332178275
+08236,Enzkreis,Baden-Württemberg,28,0,0.0140770719690304
+09261,Landshut,Bayern,28,0,0.0386718965802994
+09471,Bamberg,Bayern,28,0,0.0190364820581157
+09676,Miltenberg,Bayern,28,0,0.0217465593836404
+10045,Saarpfalz-Kreis,Saarland,28,0,0.0196310759932974
+16051,Erfurt,Thüringen,28,0,0.0131025414250886
+03151,Gifhorn,Niedersachsen,27,0,0.0153478854024557
+09185,Neuburg-Schrobenhausen,Bayern,27,0,0.0279271824575921
+09375,Regensburg,Bayern,27,0,0.0139482983076065
+09473,Coburg,Bayern,27,0,0.0310680505373622
+09374,Neustadt a.d. Waldnaab,Bayern,26,0,0.0275563846023402
+09472,Bayreuth,Bayern,26,0,0.0250829667361272
+01059,Schleswig-Flensburg,Schleswig-Holstein,25,0,0.0124984376952881
+03101,Braunschweig,Niedersachsen,25,0,0.0100687899730962
+03257,Schaumburg,Niedersachsen,25,0,0.0158447468326351
+03361,Verden,Niedersachsen,25,0,0.0182759225685713
+06632,Hersfeld-Rotenburg,Hessen,25,0,0.0206903971728641
+07334,Germersheim,Rheinland-Pfalz,25,0,0.0193685841564982
+09275,Passau,Bayern,25,0,0.0130179178621455
+09276,Regen,Bayern,25,0,0.0321932625940043
+10043,Neunkirchen,Saarland,25,0,0.0189098830612831
+12071,Spree-Neiße,Brandenburg,25,0,0.0218476085607669
+13075,Vorpommern-Greifswald,Mecklenburg-Vorpommern,25,0,0.0105620265571596
+03357,Rotenburg (Wümme),Niedersachsen,24,0,0.0146829402587868
+09176,Eichstätt,Bayern,24,0,0.0181349695105825
+09180,Garmisch-Partenkirchen,Bayern,24,0,0.0271287598765641
+09362,Regensburg,Bayern,24,0,0.0157263613131512
+10044,Saarlouis,Saarland,24,0,0.0122950189804356
+14522,Mittelsachsen,Sachsen,24,0,0.00783839835393635
+03252,Hameln-Pyrmont,Niedersachsen,23,0,0.0154820643649998
+03352,Cuxhaven,Niedersachsen,23,0,0.0116036788707098
+03356,Osterholz,Niedersachsen,23,0,0.0202612824510866
+03452,Aurich,Niedersachsen,23,0,0.0121149551219923
+06411,Darmstadt,Hessen,23,0,0.0144466009660379
+12064,Märkisch-Oderland,Brandenburg,23,0,0.0118356592976823
+13003,Rostock,Mecklenburg-Vorpommern,23,0,0.0110107905747633
+13071,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,23,0,0.00887585381854667
+09563,Fürth,Bayern,22,0,0.0172214046403858
+09778,Unterallgäu,Bayern,22,0,0.0152734290931054
+12054,Potsdam,Brandenburg,22,0,0.0123533738748603
+01003,Lübeck,Schleswig-Holstein,21,1,0.00966859731673404
+01053,Herzogtum Lauenburg,Schleswig-Holstein,21,0,0.0106456322491686
+03255,Holzminden,Niedersachsen,21,0,0.0295878830574146
+07235,Trier-Saarburg,Rheinland-Pfalz,21,0,0.0140991641209843
+08211,Baden-Baden,Baden-Württemberg,21,0,0.0380966202855432
+09661,Aschaffenburg,Bayern,21,0,0.0297758305329874
+13076,Ludwigslust-Parchim,Mecklenburg-Vorpommern,21,0,0.00987686837426747
+14627,Meißen,Sachsen,21,0,0.00867177337765573
+16053,Jena,Thüringen,21,0,0.0188498029746784
+03451,Ammerland,Niedersachsen,20,0,0.0161198023712229
+09171,Altötting,Bayern,20,0,0.0179839942451218
+09363,Weiden i.d. OPf.,Bayern,20,0,0.0470366886171214
+09478,Lichtenfels,Bayern,20,0,0.0299230976390676
+09572,Erlangen-Höchstadt,Bayern,20,0,0.0146766369953989
+12052,Cottbus,Brandenburg,20,0,0.0199562957123899
+07336,Kusel,Rheinland-Pfalz,19,0,0.0269404191362051
+09474,Forchheim,Bayern,19,0,0.0163653433707439
+03153,Goslar,Niedersachsen,18,0,0.0131373436291182
+07231,Bernkastel-Wittlich,Rheinland-Pfalz,18,0,0.0160339206499082
+08121,Heilbronn,Baden-Württemberg,18,0,0.0142902508732931
+09181,Landsberg am Lech,Bayern,18,1,0.0149911302479366
+09186,Pfaffenhofen a.d. Ilm,Bayern,18,0,0.0141563967251536
+09371,Amberg-Sulzbach,Bayern,18,0,0.0174572539739499
+09373,Neumarkt i.d. OPf.,Bayern,18,0,0.0134769880429167
+09573,Fürth,Bayern,18,0,0.0153338955761711
+09663,Würzburg,Bayern,18,6,0.0140756959649672
+09771,Aichach-Friedberg,Bayern,18,0,0.0134734572891404
+01054,Nordfriesland,Schleswig-Holstein,17,0,0.0102714688804703
+01062,Stormarn,Schleswig-Holstein,17,0,0.00699024655010773
+05117,Mülheim an der Ruhr,Nordrhein-Westfalen,17,0,0.00994850187265918
+06437,Odenwaldkreis,Hessen,17,0,0.0175623463294696
+06535,Vogelsbergkreis,Hessen,17,0,0.0160562156444209
+07314,Ludwigshafen am Rhein,Rheinland-Pfalz,17,0,0.00993797534212942
+07333,Donnersbergkreis,Rheinland-Pfalz,17,0,0.0226361832731921
+09562,Erlangen,Bayern,17,0,0.0151837230488916
+13072,Rostock,Mecklenburg-Vorpommern,17,0,0.00790282316735855
+13074,Nordwestmecklenburg,Mecklenburg-Vorpommern,17,0,0.0108467482086914
+03102,Salzgitter,Niedersachsen,16,0,0.0152456454625148
+03154,Helmstedt,Niedersachsen,16,0,0.0175233005136517
+03157,Peine,Niedersachsen,16,0,0.0119434180569552
+05915,Hamm,Nordrhein-Westfalen,16,0,0.00893300802295783
+09764,Memmingen,Bayern,16,0,0.0364988480051098
+12061,Dahme-Spreewald,Brandenburg,16,0,0.00946370373875446
+14523,Vogtlandkreis,Sachsen,16,0,0.00702382833763543
+16073,Saalfeld-Rudolstadt,Thüringen,16,0,0.0150438151115123
+16074,Saale-Holzland-Kreis,Thüringen,16,0,0.0192652707372578
+03103,Wolfsburg,Niedersachsen,15,0,0.0120820613607623
+04012,Bremerhaven,Bremen,15,0,0.013200274565711
+05970,Siegen-Wittgenstein,Nordrhein-Westfalen,15,0,0.00539161065382265
+05978,Unna,Nordrhein-Westfalen,15,0,0.00379956532972628
+15084,Burgenlandkreis,Sachsen-Anhalt,15,0,0.00832454631222598
+03256,Nienburg (Weser),Niedersachsen,14,0,0.0115334552584318
+03458,Oldenburg,Niedersachsen,14,0,0.0107573149741824
+07312,Kaiserslautern,Rheinland-Pfalz,14,0,0.0140217336872152
+07335,Kaiserslautern,Rheinland-Pfalz,14,0,0.0132004488152597
+08231,Pforzheim,Baden-Württemberg,14,0,0.0111516464609453
+08237,Freudenstadt,Baden-Württemberg,14,0,0.0118709458600076
+09672,Bad Kissingen,Bayern,14,0,0.0135635257416342
+09674,Haßberge,Bayern,14,0,0.0165486589676001
+15088,Saalekreis,Sachsen-Anhalt,14,0,0.0075847049008029
+01001,Flensburg,Schleswig-Holstein,13,0,0.0145244905255631
+05120,Remscheid,Nordrhein-Westfalen,13,0,0.0117123448114312
+05366,Euskirchen,Nordrhein-Westfalen,13,0,0.00674133997096038
+05513,Gelsenkirchen,Nordrhein-Westfalen,13,0,0.00498745463334535
+08327,Tuttlingen,Baden-Württemberg,13,0,0.00927564358696273
+08337,Waldshut,Baden-Württemberg,13,1,0.00761931555102304
+09272,Freyung-Grafenau,Bayern,13,0,0.0165911556378023
+09476,Kronach,Bayern,13,0,0.0193639681239294
+09477,Kulmbach,Bayern,13,0,0.0180945090124574
+09576,Roth,Bayern,13,0,0.0102396067990989
+09677,Main-Spessart,Bayern,13,0,0.0102876587662723
+12072,Teltow-Fläming,Brandenburg,13,0,0.0077244854304321
+13073,Vorpommern-Rügen,Mecklenburg-Vorpommern,13,0,0.00578590375816703
+15089,Salzlandkreis,Sachsen-Anhalt,13,0,0.00682199832073887
+16066,Schmalkalden-Meiningen,Thüringen,13,0,0.0106255159505341
+01051,Dithmarschen,Schleswig-Holstein,12,0,0.00900833270775467
+01055,Ostholstein,Schleswig-Holstein,12,0,0.00598262048748386
+01057,Plön,Schleswig-Holstein,12,0,0.00932785063001858
+01061,Steinburg,Schleswig-Holstein,12,0,0.00913610512611632
+03155,Northeim,Niedersachsen,12,0,0.00903852672014462
+05974,Soest,Nordrhein-Westfalen,12,0,0.00397479976946161
+09577,Weißenburg-Gunzenhausen,Bayern,12,0,0.0127128070937464
+09673,Rhön-Grabfeld,Bayern,12,0,0.0150583511105534
+09774,Günzburg,Bayern,12,0,0.00954297120408439
+12069,Potsdam-Mittelmark,Brandenburg,12,0,0.00559013155442925
+14626,Görlitz,Sachsen,12,0,0.00470783933713622
+15085,Harz,Sachsen-Anhalt,12,0,0.0055958143308805
+03457,Leer,Niedersachsen,11,0,0.00647786630861733
+05119,Oberhausen,Nordrhein-Westfalen,11,0,0.005217498541472
+05711,Bielefeld,Nordrhein-Westfalen,11,0,0.00329552467748797
+05914,Hagen,Nordrhein-Westfalen,11,0,0.00582583918565361
+05954,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,11,0,0.0033919628980931
+07211,Trier,Rheinland-Pfalz,11,0,0.00994251419067935
+07311,Frankenthal (Pfalz),Rheinland-Pfalz,11,0,0.0226519223244991
+07340,Südwestpfalz,Rheinland-Pfalz,11,0,0.0115651908782185
+15091,Wittenberg,Sachsen-Anhalt,11,0,0.00874125874125874
+16065,Kyffhäuserkreis,Thüringen,11,0,0.0146649068778413
+07316,Neustadt an der Weinstraße,Rheinland-Pfalz,10,0,0.0188153834575149
+08325,Rottweil,Baden-Württemberg,10,1,0.00717077193359865
+09464,Hof,Bayern,10,0,0.0217722621380361
+09679,Würzburg,Bayern,10,3,0.00617917124955201
+09779,Donau-Ries,Bayern,10,0,0.00749086114939773
+12063,Havelland,Brandenburg,10,0,0.00617630891426666
+16055,Weimar,Thüringen,10,0,0.0153633430634506
+05122,Solingen,Nordrhein-Westfalen,9,0,0.00564759036144578
+05512,Bottrop,Nordrhein-Westfalen,9,0,0.00766720905071433
+05966,Olpe,Nordrhein-Westfalen,9,0,0.00667779632721202
+07338,Rhein-Pfalz-Kreis,Rheinland-Pfalz,9,0,0.00583653802504523
+09575,Neustadt a.d. Aisch-Bad Windsheim,Bayern,9,0,0.00896735881391734
+14730,Nordsachsen,Sachsen,9,0,0.00455297385075352
+15082,Anhalt-Bitterfeld,Sachsen-Anhalt,9,0,0.00563013750046918
+15090,Stendal,Sachsen-Anhalt,9,0,0.0080370059473844
+16071,Weimarer Land,Thüringen,9,0,0.0109827083358756
+09163,Rosenheim,Bayern,8,0,0.0126334407175794
+09565,Schwabach,Bayern,8,0,0.0196116885663856
+09773,Dillingen a.d. Donau,Bayern,8,1,0.00833151081534248
+12062,Elbe-Elster,Brandenburg,8,0,0.00779438414622265
+01004,Neumünster,Schleswig-Holstein,7,0,0.00880647149848403
+03360,Uelzen,Niedersachsen,7,0,0.00756168171801409
+03402,Emden,Niedersachsen,7,0,0.0139456121127602
+07318,Speyer,Rheinland-Pfalz,7,0,0.0138949541466513
+09675,Kitzingen,Bayern,7,0,0.0077000077000077
+12068,Ostprignitz-Ruppin,Brandenburg,7,0,0.00706514059629787
+16061,Eichsfeld,Thüringen,7,0,0.00697350069735007
+16070,Ilm-Kreis,Thüringen,7,0,0.00643725515440216
+16075,Saale-Orla-Kreis,Thüringen,7,0,0.00865608151555622
+03401,Delmenhorst,Niedersachsen,6,0,0.00773126135529012
+05916,Herne,Nordrhein-Westfalen,6,0,0.00383695499251794
+06413,Offenbach am Main,Hessen,6,0,0.00466041135897595
+09172,Berchtesgadener Land,Bayern,6,0,0.00567526153496907
+09262,Passau,Bayern,6,0,0.0114353237149555
+09462,Bayreuth,Bayern,6,0,0.00803675475842855
+16077,Altenburger Land,Thüringen,6,0,0.00665793737100246
+03354,Lüchow-Dannenberg,Niedersachsen,5,0,0.0103254584503552
+03405,Wilhelmshaven,Niedersachsen,5,0,0.0065549699782375
+03461,Wesermarsch,Niedersachsen,5,0,0.00564181260155263
+07134,Birkenfeld,Rheinland-Pfalz,5,0,0.00619425173439049
+07313,Landau in der Pfalz,Rheinland-Pfalz,5,0,0.0107119137905178
+09161,Ingolstadt,Bayern,5,0,0.00365014126046678
+09777,Ostallgäu,Bayern,5,0,0.00356338550129707
+12053,Frankfurt (Oder),Brandenburg,5,0,0.00863960741623901
+12066,Oberspreewald-Lausitz,Brandenburg,5,0,0.00452586987218943
+15001,Dessau-Roßlau,Sachsen-Anhalt,5,0,0.00615483092679444
+15087,Mansfeld-Südharz,Sachsen-Anhalt,5,0,0.00366975170459967
+16064,Unstrut-Hainich-Kreis,Thüringen,5,0,0.00485851990049751
+03358,Heidekreis,Niedersachsen,4,0,0.0028621516224822
+03453,Cloppenburg,Niedersachsen,4,0,0.00236200014172001
+03462,Wittmund,Niedersachsen,4,0,0.00703210154354629
+07132,Altenkirchen (Westerwald),Rheinland-Pfalz,4,0,0.00310788236665242
+07319,Worms,Rheinland-Pfalz,4,0,0.00480019200768031
+08221,Heidelberg,Baden-Württemberg,4,0,0.00249446540488292
+09678,Schweinfurt,Bayern,4,0,0.00347505777283547
+12073,Uckermark,Brandenburg,4,0,0.0033458244111349
+15086,Jerichower Land,Sachsen-Anhalt,4,0,0.00444800284672182
+16052,Gera,Thüringen,4,0,0.00424844931599966
+16054,Suhl,Thüringen,4,0,0.0114827041768336
+16063,Wartburgkreis,Thüringen,4,0,0.0032513716724243
+16067,Gotha,Thüringen,4,0,0.00295307562826684
+03158,Wolfenbüttel,Niedersachsen,3,0,0.00250083361120373
+03455,Friesland,Niedersachsen,3,0,0.00304692260816575
+06636,Werra-Meißner-Kreis,Hessen,3,0,0.00296979716285378
+09561,Ansbach,Bayern,3,0,0.00716897268621406
+12051,Brandenburg an der Havel,Brandenburg,3,0,0.00415950307803228
+15081,Altmarkkreis Salzwedel,Sachsen-Anhalt,3,0,0.00358144809884797
+16062,Nordhausen,Thüringen,3,0,0.00357901266970485
+16068,Sömmerda,Thüringen,3,0,0.00430694135381523
+05762,Höxter,Nordrhein-Westfalen,2,0,0.00142179757867872
+09361,Amberg,Bayern,2,0,0.00476530855372885
+09461,Bamberg,Bayern,2,0,0.00257758531807403
+07317,Pirmasens,Rheinland-Pfalz,1,0,0.00247506373289112
+07320,Zweibrücken,Rheinland-Pfalz,1,0,0.00292320734309685
+10042,Merzig-Wadern,Saarland,1,0,0.000967436100845539
+16056,Eisenach,Thüringen,1,0,0.00236016049091338
+16069,Hildburghausen,Thüringen,1,0,0.00157348984312306
